@@ -2,7 +2,7 @@
 Contributors: KingYes, bontact
 Tags: callback, live chat, call back, text messages, sms, customer engagement platform, conversion, increase conversion
 Requires at least: 3.5
-Tested up to: 3.8.1
+Tested up to: 3.9
 Stable tag: 1.0.0
 License: GPLv2 or later
 
