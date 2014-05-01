@@ -3,7 +3,7 @@ Contributors: KingYes, bontact
 Tags: callback, live chat, call back, text messages, sms, customer engagement platform, conversion, increase conversion
 Requires at least: 3.5
 Tested up to: 3.9
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 
 == Short Description ==
@@ -77,5 +77,12 @@ Customers will hear an announcement explaining that you are unavailable to take 
 
 
 == Changelog ==
+
+= 1.0.2 =
+* Fixed some bugs
+
+= 1.0.1 =
+* Tested up to WordPress 3.9
+
 = 1.0 =
 * Blastoff!

@@ -114,7 +114,7 @@ class BONT_Settings {
 				
 				<h3><?php _e( 'Login using your Bontact account:', 'bontact' ); ?></h3>
 				<p class="description">
-					<?php printf( __( 'If you don\'t have an account <a href="%s" target="_blank">click here to sign up</a>', 'bontact' ), 'http://bontact.com/?utm_source=Plugins&utm_medium=WP&utm_campaign=WP-Bontact-Plugin' ); ?>
+					<?php printf( __( '<a href="%s" target="_blank">click here</a> to sign up for a free account', 'bontact' ), 'http://bontact.com/free-account-for-wordpress-users/?wordpress-bontact&utm_source=Plugins&utm_medium=WP&utm_campaign=WP-Bontact-Plugin' ); ?>
 				</p>
 				<form action="" method="post">
 					<input type="hidden" name="page" value="<?php echo $this->_option_slug; ?>" />
