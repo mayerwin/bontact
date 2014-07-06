@@ -3,17 +3,17 @@ Contributors: KingYes, bontact
 Tags: callback, live chat, call back, text messages, sms, customer engagement platform, conversion, increase conversion
 Requires at least: 3.5
 Tested up to: 3.9
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 
 == Short Description ==
-Bontact helps you connect with your website visitors and turn them into converting customers, through a multi-channel customer engagement platform, Including  text messages, callback, e-mail, and live chat options.
+Bontact helps you connect with your website visitors and turn them into converting customers, through a multi-channel customer engagement platform, Including  text messages, callback, e-mail, and live chat options.FREE version available now.
 
 
 == Description ==
 Bontact helps you connect with your website visitors and turn them into converting customers, through a multi-channel, flexible, real-time, and easy-to-use customer engagement platform. The platform is the only solution of its kind to combine text messages, callback, e-mail, and live chat options.
 
-Each of your customers may have a different preferred method of contact.  Presenting potential customers, while they are at the peak of interest, with flexible options to connect with your sales team has tremendous business potential. It enhances user experience and satisfaction, increases the “stickiness” of your website (average visit duration), and – most importantly — can significantly increase the number of leads and sales. Combined with the right sales and support staff, Bontact can even turn random online visitors into committed customers.
+Each of your customers may have a different preferred method of contact.  Presenting potential customers, while they are at the peak of interest, with flexible options to connect with your sales team has tremendous business potential. It enhances user experience and satisfaction, increases the “stickiness” of your website (average visit duration), and – most importantly — can significantly increase the number of leads and sales. Combined with the right sales and support staff, Bontact can even turn random online visitors into committed customers.FREE version available now, or full Botact packages for special prices.
 
 
 http://www.youtube.com/watch?v=FFsJ31Q2dI8
@@ -73,10 +73,19 @@ Within a few seconds the customer will be called back, and connected with your r
 = What happens if all my incoming lines are busy? =
 Customers will hear an announcement explaining that you are unavailable to take their call at the time. Their details will be logged and you may choose to call them back at a later time.
 
+=Do you have a free version? =
+Yes, a FREE version contains: 2 Chat Rep. + 10 minutes of callback + 10 Text messages .
+
+=The free version package is limited, do you have premium packages? =
+Yes, there are special offers - check the pricing page on our site.
+
 == Screenshots ==
 
 
 == Changelog ==
+
+= 1.0.3 =
+* API Fixed with old WP Version
 
 = 1.0.2 =
 * Fixed some bugs

@@ -49,7 +49,7 @@ class BONT_Settings {
 
 				$response = wp_remote_get( sprintf( $this->_api_login_url, $_POST['bontact']['username'], $_POST['bontact']['password'] ), array( 'sslverify' => false, 'timeout' => 30 ) );
 
-				if ( is_wp_error( $response ) || 200 !== $response['response']['code'] ) {
+				if ( is_wp_error( $response ) || 200 !== (int) $response['response']['code'] ) {
 					$this->_do_redirect_option_page( 4 );
 				}
 
