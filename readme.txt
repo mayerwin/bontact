@@ -81,6 +81,10 @@ Yes, there are special offers - check the pricing page on our site.
 
 == Screenshots ==
 
+1. Bontact widget on  home page
+2. Dashboard view
+3. Account Configuration – set your profile
+4. Widget setting -styling and customization 
 
 == Changelog ==
 
