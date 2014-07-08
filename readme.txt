@@ -73,10 +73,10 @@ Within a few seconds the customer will be called back, and connected with your r
 = What happens if all my incoming lines are busy? =
 Customers will hear an announcement explaining that you are unavailable to take their call at the time. Their details will be logged and you may choose to call them back at a later time.
 
-=Do you have a free version? =
+= Do you have a free version? =
 Yes, a FREE version contains: 2 Chat Rep. + 10 minutes of callback + 10 Text messages .
 
-=The free version package is limited, do you have premium packages? =
+= The free version package is limited, do you have premium packages? =
 Yes, there are special offers - check the pricing page on our site.
 
 == Screenshots ==
