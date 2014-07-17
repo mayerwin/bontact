@@ -30,6 +30,7 @@ Bontact Live Support Widget turns your website visitors into paying customers. W
 Effortless Setup
 After installing the Bontact widget, the Bontact Live Support Widget immediately appear on any page of your choice on your website Now, Web visitors will have the choice of clicking on their preferred mode of communication (phone, text message, live chat or E-Mail) to reach out to your sales or customer support representatives.
 
+Take a look on this magnificent plugin : Here is a link to a <a href="https://dashboard.bontact.com/html/login.aspx?username=demo@bontact.com&pass=demo">demo dashboard</a> which is connected to a <a href="http://demo-bontact.ucoz.com/">demo site</a> , and here is a link to the <a href="http://dashboard.bontact.com/html/bontact_Guide_en.pdf">user manual</a> .
 == Installation ==
 Install plugin from WordPress directory and activate it.
 
@@ -38,6 +39,8 @@ If you are already registered to Bontact enter your user name and password. If n
 The widget puts the installation code in the website's pages all of them. Click the blue button "click here to access the full bontact dashboard". here you will define the settings. select the services you want. features, company details. phone number, reps 
 
 Finally, make full use of our intuitive Dashboard to manage your chat widget.
+
+Take a look on this magnificent plugin : Here is a link to a <a href="https://dashboard.bontact.com/html/login.aspx?username=demo@bontact.com&pass=demo">demo dashboard</a> which is connected to a <a href="http://demo-bontact.ucoz.com/">demo site</a> , and here is a link to the <a href="http://dashboard.bontact.com/html/bontact_Guide_en.pdf">user manual</a> .
 
 = Requirements =
 * __Requires PHP5__ for list management functionality.
@@ -79,12 +82,21 @@ Yes, a FREE version contains: 2 Chat Rep. + 10 minutes of callback + 10 Text mes
 = The free version package is limited, do you have premium packages? =
 Yes, there are special offers - check the pricing page on our site.
 
+= Do you have a Demo version? =
+Sure, here is a link to a <a href="https://dashboard.bontact.com/html/login.aspx?username=demo@bontact.com&pass=demo">demo dashboard</a> which is connected to a <a href="http://demo-bontact.ucoz.com/">demo site</a>  , and here is a link to the  <a href="http://dashboard.bontact.com/html/bontact_Guide_en.pdf">user manual</a> .
+
+= Why are you different than all the others – Zopim, Olark, live chat, live person? =
+Solutions in this market are fragmented and only partially address the breadth of communication options.
+Bontact is the only solution that offers an Omni channel, online,  communication platform.
+
+
 == Screenshots ==
 
-1. Bontact widget on  home page
-2. Dashboard view
-3. Account Configuration – set your profile
-4. Widget setting -styling and customization 
+1. Bontact widget on your website – Active chat window
+2. Bontact widget on your website- Callback window
+3. Chat Dashboard
+4. Dashboard - Widget style
+5. Dashboard – All features history
 
 == Changelog ==
 
