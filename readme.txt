@@ -1,5 +1,5 @@
 === Bontact ===
-Contributors: KingYes, bontact
+Contributors: bontact
 Tags: callback, live chat, call back, text messages, sms, customer engagement platform, conversion, increase conversion
 Requires at least: 3.5
 Tested up to: 4.2

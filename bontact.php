@@ -3,9 +3,9 @@
 Plugin Name: Bontact
 Plugin URI: http://wordpress.org/plugins/bontact/
 Description: Bontact adds a widget to your website which enables customers to contact you anytime, in any way – live chat, click-to-call, text messages or email.
-Author: Yakir Sitbon
+Author: Bontact
 Version: 1.0.3
-Author URI: http://www.yakirs.net/
+Author URI: http://www.bontact.com
 License: GPLv2 or later
 
 This program is free software; you can redistribute it and/or
