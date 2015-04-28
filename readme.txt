@@ -1,102 +1,106 @@
 === Bontact ===
 Contributors: bontact
-Tags: callback, live chat, call back, text messages, sms, customer engagement platform, conversion, increase conversion
+Tags: support, live chat, callback, call back, text messages, sms, customer engagement platform, conversion, increase conversion
 Requires at least: 3.5
 Tested up to: 4.2
 Stable tag: 1.0.4
 License: GPLv2 or later
 
 == Short Description ==
-Bontact helps you connect with your website visitors and turn them into converting customers, through a multi-channel customer engagement platform, Including  text messages, callback, e-mail, and live chat options.FREE version available now.
+Engage visitors with a multi-channel communication widget that includes live chat, callback, text messages, and email. Increase their satisfaction and your conversion rates.
 
 
 == Description ==
-Bontact helps you connect with your website visitors and turn them into converting customers, through a multi-channel, flexible, real-time, and easy-to-use customer engagement platform. The platform is the only solution of its kind to combine text messages, callback, e-mail, and live chat options.
+Bontact is a smart, multi-channel communication tool that converts your site visitors into paying customers. Our clean and customizable widget hovers neatly over your site and provides visitors with live chat, callback, text, and email options. With our online dashboard, you can manage all of your interactions, as well as monitor where visitors are and how long they’ve been surfing. If you feel that they need assistance at any point, step in and initiate a live chat.
 
-Each of your customers may have a different preferred method of contact.  Presenting potential customers, while they are at the peak of interest, with flexible options to connect with your sales team has tremendous business potential. It enhances user experience and satisfaction, increases the “stickiness” of your website (average visit duration), and – most importantly — can significantly increase the number of leads and sales. Combined with the right sales and support staff, Bontact can even turn random online visitors into committed customers.FREE version available now, or full Botact packages for special prices.
+With Bontact, you’re offering your visitors flexible and accessible support, while transforming them into happy customers.
 
 
 http://www.youtube.com/watch?v=FFsJ31Q2dI8
 
 
-* Phone – The “Callback” feature enables users to enter their phone number (landline or mobile anywhere in the world). They are immediately called back. Within seconds they are connected with with you sales or support representatives, at no cost or hassle for the customer.
-* Chat – The “Chat” feature enables users to click a text box and begin chatting, in real time, with your company’s live, online representative. The chat can also be initiated by the representative.
-* Text Message- The “SMS” feature enables users to send a free text message from the website to your representative’s cell phone. Your representative can respond by SMS immediately.
-* E-Mail – The “E-Mail” feature enables users to fill a quick contact form which is sent directly to your representatives’’ in-box and allows them respond by e-mail at a later time.
+Widget Options on Your Site: 
+* Callback – After visitors enter their phone number (landline or mobile, from anywhere in the world), they’re automatically called back within seconds and connected with you. This call is free for visitors. 
+* Live Chat – Visitors can initiate a chat with with you in real time.
+* Text Message - Visitors can send a free international text message to your phone. You can reply to them directly, without international fees.
+* Email – Visitors fill out a form that’s sent directly to your inbox.
 
-Solid ROI
-Bontact Live Support Widget turns your website visitors into paying customers. What is the value of a single customer to you? Bontact packages are so affordable that they need to generate only a few sales to pay for themselves for a full year of use.
+Live Chat Options in Your Dashboard:
+* Invite visitors to a live chat session
+* Easily manage all ongoing chats
+* Reply to visitor-initiated chats
+* Transfer chats between representatives
+* Incorporate templates
+* Print transcripts
 
-Effortless Setup
-After installing the Bontact widget, the Bontact Live Support Widget immediately appear on any page of your choice on your website Now, Web visitors will have the choice of clicking on their preferred mode of communication (phone, text message, live chat or E-Mail) to reach out to your sales or customer support representatives.
+Dashboard Capabilities
+* Customize your widget
+* Monitor visitor activity including their IPs, status (surfing or chat), duration of their stay, and the page they’re on at any given moment
+* Manage leads with detailed reports of all previous interactions
+* View history of texts, chats, and emails
+* Record and play calls
+* View important statistics like your most visited pages, browsers your visitors used, interaction counts, and more
+* Add Google Analytics (event and conversion tracking) 
+* API integration
+* Enable desktop notifications so that you won’t miss a thing
 
-Take a look on this magnificent plugin : Here is a link to a <a href="https://dashboard.bontact.com/html/login.aspx?username=demo@bontact.com&pass=demo">demo dashboard</a> which is connected to a <a href="http://demo-bontact.ucoz.com/">demo site</a> , and here is a link to the <a href="http://dashboard.bontact.com/html/bontact_Guide_en.pdf">user manual</a> .
+Find out more about all of Bontact’s capabilities in our <a href="http://dashboard.bontact.com/html/bontact_Guide_en.pdf">user manual</a> .
+
+Feel free to look at our <a href="http://demo-bontact.ucoz.com/">demo site</a> and <a href="https://dashboard.bontact.com/html/login.aspx?username=demo@bontact.com&pass=demo">demo dashboard</a> .
+
+Bontact: your customer touchpoint. 
+
+
 == Installation ==
-Install plugin from WordPress directory and activate it.
+Install our plugin from WordPress' Plugin directory and activate it. The widget embeds the installation code into all of your website's pages.
 
-If you are already registered to Bontact enter your user name and password. If not, define a username and password. 
+From your WordPress side panel, click the 'Bontact' tab (under 'Settings'). If you're a new user, click 'Sign up for your free account' to sign up. After signing up, go back to the WordPress Bontact Settings page and enter your username and password to log in. 
+Then, click the 'Bontact Dashboard' button. 
 
-The widget puts the installation code in the website's pages all of them. Click the blue button "click here to access the full bontact dashboard". here you will define the settings. select the services you want. features, company details. phone number, reps 
+From Bontact's dashboard, define your widget and dashboard settings from the side panel. Remember to save!
 
-Finally, make full use of our intuitive Dashboard to manage your chat widget.
+Finally, make full use of our intuitive dashboard to manage all of your interactions.
+Look through our <a href="http://dashboard.bontact.com/html/bontact_Guide_en.pdf">user manual</a> if you need more information about the widget and all of the dashboard's features.
 
-Take a look on this magnificent plugin : Here is a link to a <a href="https://dashboard.bontact.com/html/login.aspx?username=demo@bontact.com&pass=demo">demo dashboard</a> which is connected to a <a href="http://demo-bontact.ucoz.com/">demo site</a> , and here is a link to the <a href="http://dashboard.bontact.com/html/bontact_Guide_en.pdf">user manual</a> .
 
 = Requirements =
 * __Requires PHP5__ for list management functionality.
 
-= What is the plugin license? =
+= Plugin License =
 
 * This plugin is released under a GPL license.
 
 == Frequently Asked Questions ==
 
+= What’s included in your free version? =
+A free version contains 2 chat representatives, 10 minutes of call time, and 10 Text messages.If you need more, check here for our pricing page. 
+
+= Do you have a demo version? =
+Yes! Check out this <a href="http://demo-bontact.ucoz.com/">demo site</a> with our widget that’s connected to a  <a href="https://dashboard.bontact.com/html/login.aspx?username=demo@bontact.com&pass=demo">demo dashboard</a> . Feel free to play around with both simultaneously to test out our features. 
+
+= How can I support my international users? =
+All of our services are offered locally and globally. We support most languages (chat) and offer calls to any destination in the world (callback/text messaging).
+
+= How are you different than all other chat and support solutions? =
+Solutions in this market are fragmented and don’t fully address the breadth of communication options. Bontact is the only solution that offers a multi-channel, online communication platform that allows you to manage your interactions easily and intelligently. 
+
 = What is Callback? =
-Bontact allows users to call your sales or customer support representatives by clicking a button, without picking up a phone.
-
-= Can I see a list of all the calls that been made? =
-Yes. Once you sign up, you receive a user name and password for the dashboard. There you may view the time of the call and call duration.
-
-= Why should I use Bontact’s Callback service and not just publish a phone number? =
-You can do both. But Callback cannot be compared to a regular phone number. The Callback feature on your website is a value-add service that helps you generate more inquiries. It gives you an edge over your competitors and adds a “human touch” to your Website. As opposed to regular phone calls, Callback is also completely effortless and free for customers.
-
-= How does the Callback service work? =
-Every Callback results in two calls – one to the web visitor and another one to you. We use normal PSTN Lines (NOT VoIP) to maintain a high quality of voice call and fast connection.
-
-= Isn’t toll free a cheaper option? =
-Toll free is actually a more costly solution. It also requires you to set up proper hardware and is not ideal for smaller companies.
-Additional features like call recordings, SMS alerts, web- based reporting systems, etc. could only be made available at additional cost. We offer these services within the packages.
-
-= How about my international users? =
-All of our services are offered locally and globally. We support most languages (Chat) and offer calls to any destination in the world (Callback/SMS).
-
-= How long does the callback process take? =
-Within a few seconds the customer will be called back, and connected with your representative.
+Bontact allows users to call your representatives directly through your site for free, no matter where they are in the world. Every Callback results in two calls – one to the web visitor and another one to you. We use normal PSTN Lines (NOT VoIP) to maintain a high quality of voice call and fast connection.
 
 = What happens if all my incoming lines are busy? =
-Customers will hear an announcement explaining that you are unavailable to take their call at the time. Their details will be logged and you may choose to call them back at a later time.
+Customers will hear a message that informs them that you are unavailable to take their call. Their details will be logged in your dashboard and you can get back to them when you can.
 
-= Do you have a free version? =
-Yes, a FREE version contains: 2 Chat Rep. + 10 minutes of callback + 10 Text messages .
-
-= The free version package is limited, do you have premium packages? =
-Yes, there are special offers - check the pricing page on our site.
-
-= Do you have a Demo version? =
-Sure, here is a link to a <a href="https://dashboard.bontact.com/html/login.aspx?username=demo@bontact.com&pass=demo">demo dashboard</a> which is connected to a <a href="http://demo-bontact.ucoz.com/">demo site</a>  , and here is a link to the  <a href="http://dashboard.bontact.com/html/bontact_Guide_en.pdf">user manual</a> .
-
-= Why are you different than all the others – Zopim, Olark, live chat, live person? =
-Solutions in this market are fragmented and only partially address the breadth of communication options.
-Bontact is the only solution that offers an Omni channel, online,  communication platform.
+= Why is your callback feature a better option than a toll free number? =
+Toll free numbers are more costly and require a hardware setup. This isn’t ideal for smaller companies. Callback hassle-free and cost-effective solution for both you and your visitors. 
 
 
 == Screenshots ==
 
-1. Bontact widget on your website – Active chat window
-2. Bontact widget on your website- Callback window
+1. Bontact widget on your site – Active live chat window
+2. Bontact widget on your site - Callback window
 3. Chat Dashboard
-4. Dashboard - Widget style
-5. Dashboard – All features history
+4. Dashboard Settings - Widget style
+5. Dashboard Reports – Chart history
 
 == Changelog ==
 
@@ -110,4 +114,4 @@ Bontact is the only solution that offers an Omni channel, online,  communication
 * Tested up to WordPress 3.9
 
 = 1.0 =
-* Blastoff!
+* Blast off!
