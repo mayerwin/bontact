@@ -19,13 +19,15 @@ With Bontact, you’re offering your visitors flexible and accessible support, w
 http://www.youtube.com/watch?v=FFsJ31Q2dI8
 
 
-Widget Options on Your Site: 
+*Widget Options on Your Site* 
+
 * Callback – After visitors enter their phone number (landline or mobile, from anywhere in the world), they’re automatically called back within seconds and connected with you. This call is free for visitors. 
 * Live Chat – Visitors can initiate a chat with with you in real time.
 * Text Message - Visitors can send a free international text message to your phone. You can reply to them directly, without international fees.
 * Email – Visitors fill out a form that’s sent directly to your inbox.
 
-Live Chat Options in Your Dashboard:
+*Live Chat Options in Your Dashboard*
+
 * Invite visitors to a live chat session
 * Easily manage all ongoing chats
 * Reply to visitor-initiated chats
@@ -33,7 +35,8 @@ Live Chat Options in Your Dashboard:
 * Incorporate templates
 * Print transcripts
 
-Dashboard Capabilities
+*Dashboard Capabilities*
+
 * Customize your widget
 * Monitor visitor activity including their IPs, status (surfing or chat), duration of their stay, and the page they’re on at any given moment
 * Manage leads with detailed reports of all previous interactions
@@ -73,7 +76,7 @@ Look through our <a href="http://dashboard.bontact.com/html/bontact_Guide_en.pdf
 == Frequently Asked Questions ==
 
 = What’s included in your free version? =
-A free version contains 2 chat representatives, 10 minutes of call time, and 10 Text messages.If you need more, check here for our pricing page. 
+A free version contains 2 chat representatives, 10 minutes of call time, and 10 Text messages. If you need more, check here for our pricing page. 
 
 = Do you have a demo version? =
 Yes! Check out this <a href="http://demo-bontact.ucoz.com/">demo site</a> with our widget that’s connected to a  <a href="https://dashboard.bontact.com/html/login.aspx?username=demo@bontact.com&pass=demo">demo dashboard</a> . Feel free to play around with both simultaneously to test out our features. 
