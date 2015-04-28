@@ -19,14 +19,14 @@ With Bontact, you’re offering your visitors flexible and accessible support, w
 http://www.youtube.com/watch?v=FFsJ31Q2dI8
 
 
-*Widget Options on Your Site* 
+**Widget Options on Your Site**
 
 * Callback – After visitors enter their phone number (landline or mobile, from anywhere in the world), they’re automatically called back within seconds and connected with you. This call is free for visitors. 
 * Live Chat – Visitors can initiate a chat with with you in real time.
 * Text Message - Visitors can send a free international text message to your phone. You can reply to them directly, without international fees.
 * Email – Visitors fill out a form that’s sent directly to your inbox.
 
-*Live Chat Options in Your Dashboard*
+**Live Chat Options in Your Dashboard**
 
 * Invite visitors to a live chat session
 * Easily manage all ongoing chats
@@ -35,7 +35,7 @@ http://www.youtube.com/watch?v=FFsJ31Q2dI8
 * Incorporate templates
 * Print transcripts
 
-*Dashboard Capabilities*
+**Dashboard Capabilities**
 
 * Customize your widget
 * Monitor visitor activity including their IPs, status (surfing or chat), duration of their stay, and the page they’re on at any given moment
