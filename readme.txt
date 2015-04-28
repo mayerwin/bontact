@@ -40,7 +40,7 @@ http://www.youtube.com/watch?v=FFsJ31Q2dI8
 * Customize your widget
 * Monitor visitor activity including their IPs, status (surfing or chat), duration of their stay, and the page they’re on at any given moment
 * Manage leads with detailed reports of all previous interactions
-* View history of texts, chats, and emails
+* View history of text messages, chats, and emails
 * Record and play calls
 * View important statistics like your most visited pages, browsers your visitors used, interaction counts, and more
 * Add Google Analytics (event and conversion tracking) 
@@ -60,7 +60,7 @@ Install our plugin from WordPress' Plugin directory and activate it. The widget 
 From your WordPress side panel, click the 'Bontact' tab (under 'Settings'). If you're a new user, click 'Sign up for your free account' to sign up. After signing up, go back to the WordPress Bontact Settings page and enter your username and password to log in. 
 Then, click the 'Bontact Dashboard' button. 
 
-From Bontact's dashboard, define your widget and dashboard settings from the side panel. Remember to save!
+From Bontact's dashboard, define your widget and dashboard settings from the side panel. Just remember to save!
 
 Finally, make full use of our intuitive dashboard to manage all of your interactions.
 Look through our <a href="http://dashboard.bontact.com/html/bontact_Guide_en.pdf">user manual</a> if you need more information about the widget and all of the dashboard's features.
@@ -76,7 +76,7 @@ Look through our <a href="http://dashboard.bontact.com/html/bontact_Guide_en.pdf
 == Frequently Asked Questions ==
 
 = What’s included in your free version? =
-A free version contains 2 chat representatives, 10 minutes of call time, and 10 Text messages. If you need more, check here for our pricing page. 
+A free version contains 1 chat representative, 10 minutes of call time, and 10 text messages. If you need more, check here for our pricing page. 
 
 = Do you have a demo version? =
 Yes! Check out this <a href="http://demo-bontact.ucoz.com/">demo site</a> with our widget that’s connected to a  <a href="https://dashboard.bontact.com/html/login.aspx?username=demo@bontact.com&pass=demo">demo dashboard</a> . Feel free to play around with both simultaneously to test out our features. 
@@ -88,13 +88,13 @@ All of our services are offered locally and globally. We support most languages 
 Solutions in this market are fragmented and don’t fully address the breadth of communication options. Bontact is the only solution that offers a multi-channel, online communication platform that allows you to manage your interactions easily and intelligently. 
 
 = What is Callback? =
-Bontact allows users to call your representatives directly through your site for free, no matter where they are in the world. Every Callback results in two calls – one to the web visitor and another one to you. We use normal PSTN Lines (NOT VoIP) to maintain a high quality of voice call and fast connection.
+Bontact allows users to call your representatives directly through your site for free, no matter where they are in the world. Every callback results in two calls – one to the web visitor and another one to you. We use normal PSTN Lines (NOT VoIP) to maintain a high quality of voice call and fast connection.
 
 = What happens if all my incoming lines are busy? =
 Customers will hear a message that informs them that you are unavailable to take their call. Their details will be logged in your dashboard and you can get back to them when you can.
 
 = Why is your callback feature a better option than a toll free number? =
-Toll free numbers are more costly and require a hardware setup. This isn’t ideal for smaller companies. Callback hassle-free and cost-effective solution for both you and your visitors. 
+Toll free numbers are more costly and require a hardware setup. This isn’t ideal for smaller companies. Callback is a hassle-free and cost-effective solution for both you and your visitors. 
 
 
 == Screenshots ==
