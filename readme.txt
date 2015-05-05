@@ -1,5 +1,5 @@
 === Bontact ===
-Contributors: bontact
+Contributors: Bontact Multichannel Live Support
 Tags: support, live chat, callback, call back, text messages, sms, customer engagement platform, conversion, increase conversion
 Requires at least: 3.5
 Tested up to: 4.2
