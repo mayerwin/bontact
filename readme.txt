@@ -3,7 +3,7 @@ Contributors: Bontact Multichannel Live Support
 Tags: support, live chat, callback, call back, text messages, sms, customer engagement platform, conversion, increase conversion
 Requires at least: 3.5
 Tested up to: 4.2
-Stable tag: 1.0.4
+Stable tag: 1.0.3
 License: GPLv2 or later
 
 == Short Description ==
