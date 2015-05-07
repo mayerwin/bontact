@@ -107,6 +107,9 @@ Toll free numbers are more costly and require a hardware setup. This isn’t ide
 
 == Changelog ==
 
+= 1.0.4 =
+* Fix registration page bugs
+
 = 1.0.3 =
 * API Fixed with old WP Version
 
