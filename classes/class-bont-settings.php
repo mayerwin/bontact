@@ -90,10 +90,9 @@ class BONT_Settings {
 				<p><?php _e( 'Update your widget settings, manage your conversations, monitor your visitors, and much more with Bontact\'s dashboard:', 'bontact' ); ?></p>
 				<p class="bont-get-space">
 					<a class="button-primary" href="http://dashboard.bontact.com/html/chatDashboard.aspx" target="_blank"><?php _e( 'Access Your Dashboard', 'bontact' ); ?></a><br /><br />
-					<?php _e( 'The Bontact Dashboard offers full functionality and also allows you to provide new reps with their own password.', 'bontact' ); ?>
-				</p>
+					</p>
 
-				<p><?php _e( sprintf( 'Need help? Contact us at <a href="mailto:%1$s">%1$s</a> and we\'ll provide you with any information you need. You can also contact us through our own Bontact widget on bontact.com.', 'support@bontact.com' ), 'bontact' ); ?></p>
+				<p><?php _e( sprintf( 'Need help? Contact us at <a href="mailto:%1$s">%1$s</a> and we\'ll provide you with any information you need. You can also contact us through our own Bontact widget on <a href="http://bontact.com">bontact.com</a>.', 'support@bontact.com' ), 'bontact' ); ?></p>
 
 				<hr />
 				
