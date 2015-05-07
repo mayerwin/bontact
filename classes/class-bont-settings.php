@@ -77,23 +77,23 @@ class BONT_Settings {
 		<!-- Create a header in the default WordPress 'wrap' container -->
 		<div class="wrap bontact-admin-wrap">
 			<div id="icon-themes" class="icon32"></div>
-			<h2><?php _e( 'Bontact Settings', 'bontact' ); ?></h2>
+			<h2><?php _e( 'Bontact Widget & Dashboard', 'bontact' ); ?></h2>
 			
 			<?php if ( ! empty( $_GET['message'] ) && ! empty( $this->_form_messages[ $_GET['message'] ] ) ) : ?>
 			<div class="<?php echo $this->_form_messages[ $_GET['message'] ]['status']; ?>"><p><?php echo $this->_form_messages[ $_GET['message'] ]['msg']; ?></p></div>
 			<?php endif; ?>
 			<?php if ( ! empty( $username ) && ! empty( $password ) ) : ?>
 				<h3><?php _e( 'Bontact Widget:', 'bontact' ); ?></h3>
-				<p><?php _e( 'Bontact adds a widget to your website which enables customers to contact you anytime, in any way – live chat, click-to-call, text messages or email.', 'bontact' ); ?></p>
+				
 				
 				<p><?php _e( 'You are logged in as', 'bontact' ); ?> <strong><?php echo $username; ?></strong></p>
-				
+				<p><?php _e( 'Update your widget settings, manage your conversations, monitor your visitors, and much more with Bontact\'s dashboard:', 'bontact' ); ?></p>
 				<p class="bont-get-space">
-					<a class="button-primary" href="http://dashboard.bontact.com/html/chatDashboard.aspx" target="_blank"><?php _e( 'Click here to access the full Bontact dashboard', 'bontact' ); ?></a><br /><br />
+					<a class="button-primary" href="http://dashboard.bontact.com/html/chatDashboard.aspx" target="_blank"><?php _e( 'Access Your Dashboard', 'bontact' ); ?></a><br /><br />
 					<?php _e( 'The Bontact Dashboard offers full functionality and also allows you to provide new reps with their own password.', 'bontact' ); ?>
 				</p>
 
-				<p><?php _e( sprintf( 'Need help? Contact us at <a href="mailto:%1$s">%1$s</a> and we\'ll provide you with any info you need.', 'sales@bontact.com' ), 'bontact' ); ?></p>
+				<p><?php _e( sprintf( 'Need help? Contact us at <a href="mailto:%1$s">%1$s</a> and we\'ll provide you with any information you need. You can also contact us through our own Bontact widget on bontact.com.', 'support@bontact.com' ), 'bontact' ); ?></p>
 
 				<hr />
 				
@@ -101,7 +101,6 @@ class BONT_Settings {
 				<div>
 					<ul class="bont-ul-circle">
 						<li><a href="https://www.facebook.com/bontact" target="_blank"><?php _e( 'Facebook', 'bontact' ); ?></a></li>
-						<li><a href="https://plus.google.com/u/0/106943736208504305957/posts" target="_blank"><?php _e( 'Google+', 'bontact' ); ?></a></li>
 						<li><a href="https://twitter.com/bontact" target="_blank"><?php _e( 'Twitter', 'bontact' ); ?></a></li>
 						<li><a href="http://www.youtube.com/user/Bontact" target="_blank"><?php _e( 'YouTube', 'bontact' ); ?></a></li>
 					</ul>
@@ -112,9 +111,9 @@ class BONT_Settings {
 				<p><a class="button" href="<?php echo $this->_get_logout_link(); ?>" onclick="return confirm('<?php _e( 'Are you sure you want to disconnect your Bontact account from your WordPress site?', 'bontact' ); ?>');"><?php _e( 'Disconnect your Bontact account from your WordPress site', 'bontact' ); ?></a></p>
 			<?php else : ?>
 				
-				<h3><?php _e( 'Login using your Bontact account:', 'bontact' ); ?></h3>
+				<h3><?php _e( 'Bontact Log In:', 'bontact' ); ?></h3>
 				<p class="description">
-					<?php printf( __( '<a href="%s" target="_blank">click here</a> to sign up for a free account', 'bontact' ), 'http://bontact.com/sign-up-free/' ); ?>
+					<?php printf( __( '<a href="%s" target="_blank">click here</a> to sign up for a free account.', 'bontact' ), 'http://bontact.com/sign-up-free/' ); ?>
 				</p>
 				<form action="" method="post">
 					<input type="hidden" name="page" value="<?php echo $this->_option_slug; ?>" />
