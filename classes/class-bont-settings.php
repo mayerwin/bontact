@@ -77,13 +77,13 @@ class BONT_Settings {
 		<!-- Create a header in the default WordPress 'wrap' container -->
 		<div class="wrap bontact-admin-wrap">
 			<div id="icon-themes" class="icon32"></div>
-			<h2><?php _e( 'Bontact Widget & Dashboard', 'bontact' ); ?></h2>
+			<h2><?php _e( 'Bontact Settings', 'bontact' ); ?></h2>
 			
 			<?php if ( ! empty( $_GET['message'] ) && ! empty( $this->_form_messages[ $_GET['message'] ] ) ) : ?>
 			<div class="<?php echo $this->_form_messages[ $_GET['message'] ]['status']; ?>"><p><?php echo $this->_form_messages[ $_GET['message'] ]['msg']; ?></p></div>
 			<?php endif; ?>
 			<?php if ( ! empty( $username ) && ! empty( $password ) ) : ?>
-				<h3><?php _e( 'Bontact Widget:', 'bontact' ); ?></h3>
+				<h3><?php _e( 'Bontact Widget & Dashboard', 'bontact' ); ?></h3>
 				
 				
 				<p><?php _e( 'You are logged in as', 'bontact' ); ?> <strong><?php echo $username; ?></strong></p>
