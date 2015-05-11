@@ -112,7 +112,7 @@ class BONT_Settings {
 				
 				<h3><?php _e( 'Bontact Log In:', 'bontact' ); ?></h3>
 				<p class="description">
-					<?php printf( __( '<a href="%s" target="_blank">click here</a> to sign up for a free account.', 'bontact' ), 'http://bontact.com/sign-up-free/' ); ?>
+					<?php printf( __( '<a href="%s" target="_blank">click here</a> to sign up for a free account.', 'bontact' ), 'http://bontact.com/sign-up-wordpress?free' ); ?>
 				</p>
 				<form action="" method="post">
 					<input type="hidden" name="page" value="<?php echo $this->_option_slug; ?>" />
