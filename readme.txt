@@ -99,11 +99,12 @@ Toll free numbers are more costly and require a hardware setup. This isn’t ide
 
 == Screenshots ==
 
-1. Bontact widget on your site – Active live chat window
-2. Bontact widget on your site - Callback window
-3. Chat Dashboard
-4. Dashboard Settings - Widget style
-5. Dashboard Reports – Chart history
+1. Bontact widget on your site 
+2. Active live chat window
+3. Active Callback window
+4. Chat Dashboard
+5. Dashboard Settings - Widget style
+6. Dashboard Reports – Chart history
 
 == Changelog ==
 
