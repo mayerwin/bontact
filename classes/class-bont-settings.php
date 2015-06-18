@@ -137,7 +137,7 @@ class BONT_Settings {
 			
 			<?php endif; ?>
 			<?php if ( ! empty( $username ) && ! empty( $password ) ) : ?>
-				<?php echo "<div id='bont-dasboard'><iframe id='bontiframe' src='https://dashboard.bontact.com/html/login.aspx?username=tzvi@bontact.com&pass=9999' height=1000 width=100% scrolling='yes'></iframe></div>"; ?>
+				<?php echo "<div id='bont-dasboard'><iframe id='bontiframe' src='https://dashboard.bontact.com/html/login.aspx?username=".$username."&pass=".$password."' height=1000 width=100% scrolling='yes'></iframe></div>"; ?>
 			<?php else : ?>
 			
 			<script>
