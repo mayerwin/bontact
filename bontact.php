@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: Bontact Multichannel Live Support
+Plugin Name: Bontact Widget- Live contact form with chat, phone, text and email
 Plugin URI: http://wordpress.org/plugins/bontact/
 Description: Engage visitors with a multi-channel communication widget that includes live chat, callback, text messages, and email. Increase their satisfaction and your conversion rates.
 Author: Bontact
-Version: 1.0.4
+Version: 1.0.5
 Author URI: http://www.bontact.com
 License: GPLv2 or later
 
@@ -60,7 +60,6 @@ class BONT_Main {
 		$this->front_end = new BONT_Front_End();
 		
 		add_action( 'plugins_loaded', array( &$this, 'load_textdomain' ) );
-		
 	}
 	
 }

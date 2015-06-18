@@ -24,3 +24,11 @@ div.bontact-admin-wrap hr.bont-get-space {
 div.bontact-admin-wrap p.bont-get-space {
 	margin-top: 30px;
 }
+
+.bont-notice {
+background-color: #fff;
+padding-top: 50px;
+padding-right: 15px;
+height:80px;
+
+}

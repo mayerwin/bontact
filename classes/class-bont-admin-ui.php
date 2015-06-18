@@ -12,6 +12,9 @@ class BONT_Admin_UI {
 	
 	public function admin_print_scripts() {
 		wp_enqueue_style( 'bont-admin-ui', plugins_url( '/assets/css/admin-ui.min.css', BONTACT_BASE_FILE ) );
+		wp_enqueue_style( 'bont-admin-uia', plugins_url( '/assets/css/bootstrap.min.css', BONTACT_BASE_FILE ) );
+		wp_enqueue_style( 'bont-admin-uib', plugins_url( '/assets/css/login.css', BONTACT_BASE_FILE ) );
+		wp_enqueue_script('bont-admin-uic', plugins_url( '/assets/js/jquery.validate.min.js', BONTACT_BASE_FILE ) );
 	}
 	
 	public function __construct() {		
