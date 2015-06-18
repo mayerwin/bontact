@@ -1,4 +1,4 @@
-=== Bontact ===
+=== Bontact - Multichannel Live Contact Form ===
 Contributors: Bontact Multichannel Live Support
 Tags: widget, contact, contact form, plugin, support, store, ecommerce, live chat, callback, call back, text messages, sms, customer engagement platform, conversion, increase conversion,
 snapengage ,contact us ,Zopim ,zendesk ,clickdesk ,olark
