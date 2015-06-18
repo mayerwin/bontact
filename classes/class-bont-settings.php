@@ -16,7 +16,7 @@ class BONT_Settings {
 	protected $_option_slug;
 	
 	protected $_api_login_url = 'https://dashboard.bontact.com/api/bontactapi.aspx?func=login&username=%s&password=%s';
-	protected $_api_login_urla = 'https://dashboard.bontact.com/api/bontactapi.aspx?func=signup&username=%s&password=%s&package=free&telephone=%s&usertype=0';
+	protected $_api_login_urla = 'https://dashboard.bontact.com/api/bontactapi.aspx?func=signup&username=%s&password=%s&package=free&telephone=%s&usertype=4';
 	protected function _do_redirect_option_page( $message_code = null ) {
 		$return_url = add_query_arg( 'page', $this->_option_slug, admin_url( 'admin.php' ) );
 		
