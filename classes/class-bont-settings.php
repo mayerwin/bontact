@@ -44,11 +44,11 @@ class BONT_Settings {
 	
 	public function admin_init() {
 		
-		        $options = get_option( $this->_option_slug, array() );
+		        /* $options = get_option( $this->_option_slug, array() );
 				$options['token'] = $data_return->token;
 				$options['username'] = '';
 				$options['password'] = '';
-                update_option( $this->_option_slug, $options );
+                update_option( $this->_option_slug, $options ); */
 		        
 				
 		
