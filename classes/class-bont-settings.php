@@ -27,7 +27,7 @@ class BONT_Settings {
 		die();
 	}
 	
-	protected function _do_redirect_option_pagea( $message_code = null ,$msg) {
+	protected function _do_redirect_option_pagea( $message_code = null ) {
 		$return_url = add_query_arg( 'page', $this->_option_slug, admin_url( 'admin.php' ) );
 		
 		if ( ! is_null( $message_code ) )
@@ -44,11 +44,11 @@ class BONT_Settings {
 	
 	public function admin_init() {
 		
-		        /* $options = get_option( $this->_option_slug, array() );
+		        $options = get_option( $this->_option_slug, array() );
 				$options['token'] = $data_return->token;
 				$options['username'] = '';
 				$options['password'] = '';
-                update_option( $this->_option_slug, $options ); */
+                update_option( $this->_option_slug, $options );
 		        
 				
 		
@@ -331,7 +331,7 @@ echo $output;
 		
 		add_action( 'admin_init', array( &$this, 'admin_init' ) );
 		add_action( 'admin_menu', array( &$this, 'admin_menu' ) );
-		add_action('wp_head','head_code');
+		
 
 		 
 	}
