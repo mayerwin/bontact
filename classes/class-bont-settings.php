@@ -174,7 +174,7 @@ class BONT_Settings {
 				You are just a few seconds away from engagement boost  ...
 			</h3>
 			<div class ="logo">
-				<img calss="logo" src="http://eldad.bontact.com/wp-content/uploads/logo.png" alt="bontact">
+				<img calss="logo" src="http://bontact.com/wp-content/uploads/logo.png" alt="bontact">
 			</div>
 			
 			
