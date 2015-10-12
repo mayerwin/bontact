@@ -4,7 +4,7 @@ Tags: widget, contact, admin ,contact form, plugin, support, store, ecommerce, l
 snapengage ,contact us ,Zopim ,zendesk ,clickdesk ,olark
 Requires at least: 3.5
 Tested up to: 4.3
-Stable tag: 1.1.2
+Stable tag: 1.1.4
 License: GPLv2 or later
 
 == Short Description ==
@@ -108,6 +108,12 @@ Toll free numbers are more costly and require a hardware setup. This isn’t ide
 6. Dashboard Reports – Chart history
 
 == Changelog ==
+= 1.1.4 =
+* Fix: Phone number validation system
+
+= 1.1.3 =
+* Fix: System messages
+
 = 1.1.2 =
 * Update: Improve security
 
