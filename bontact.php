@@ -4,7 +4,7 @@ Plugin Name: Bontact Widget- Live contact form with chat, phone, text and email
 Plugin URI: http://wordpress.org/plugins/bontact/
 Description: Engage visitors with a multi-channel communication widget that includes live chat, callback, text messages, and email. Increase their satisfaction and your conversion rates.
 Author: Bontact
-Version: 1.1.4
+Version: 1.1.6
 Author URI: http://www.bontact.com
 License: GPLv2 or later
 

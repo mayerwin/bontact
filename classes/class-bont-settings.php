@@ -117,7 +117,14 @@ class BONT_Settings {
 			}
 		}
 	}
-	
+	public function bontact_logout() {
+	$options = get_option( $this->_option_slug, array() );
+				$options['token'] = $data_return->token;
+				$options['username'] = '';
+				$options['password'] = '';
+                update_option( $this->_option_slug, $options );	
+				echo "You have disconnected your account";
+	}
 	public function bontact_setting_content() {
 		$username = $this->get_option( 'username' );
 		$password = $this->get_option( 'password' );
@@ -179,7 +186,7 @@ class BONT_Settings {
 			
 			
 			<header >
-<h4>Activate Account</h4><span class="switch-but"><b>Already registered?</b> <a id="linkup" href="#" class="signin">Sign in</a></span>
+<h4>Create New Account</h4><span class="switch-but"><b>Already registered?</b> <a id="linkup" href="#" class="signin">Sign in</a></span>
 </header>
 			<div style="display:inline; height:20px ">
 				&nbsp; 
@@ -242,9 +249,14 @@ class BONT_Settings {
 		$username = $this->get_option( 'username' );
 		$password = $this->get_option( 'password' );
 		add_menu_page( 'Bontact Settings', 'Bontact', 'manage_options', 'bontact-settings', array( &$this, 'bontact_setting_content' ), plugins_url( 'assets/images/logo-bontact-16x16.png', BONTACT_BASE ) );
+		
 	if (  empty( $username ) &&  empty( $password ) ) 
 	{
 		add_action('all_admin_notices', array(&$this, 'BontactNotice'));
+	}
+	if (  !empty( $username ) &&  !empty( $password ) ) 
+	{
+		add_submenu_page( 'bontact-settings', 'Disconnect account', 'Disconnect account', 'administrator', 'bontact-logout', array( &$this, 'bontact_logout' ) );
 	}
 	
 	

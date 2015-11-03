@@ -6,8 +6,8 @@ class BONT_Admin_UI {
 	
 	public function admin_menu() {
 		global $submenu;
-		if ( isset( $submenu['bontact-settings'] ) )
-			$submenu['bontact-settings'][0][0] = __( 'General Settings', 'bontact' );
+		//if ( isset( $submenu['bontact-settings'] ) )
+			//$submenu['bontact-settings'][0][0] = __( 'General Settings', 'bontact' );
 	}
 	
 	public function admin_print_scripts() {
