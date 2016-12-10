@@ -10,7 +10,11 @@ class BONT_Admin_UI {
 			//$submenu['bontact-settings'][0][0] = __( 'General Settings', 'bontact' );
 	}
 	
-	public function admin_print_scripts() {
+	public function admin_print_scripts($hook) {
+		// Load only on ?page=bontact-settings
+        if($hook != 'bontact-settings') {
+			return;
+        }
 		wp_enqueue_style( 'bont-admin-ui', plugins_url( '/assets/css/admin-ui.min.css', BONTACT_BASE_FILE ) );
 		wp_enqueue_style( 'bont-admin-uia', plugins_url( '/assets/css/bootstrap.min.css', BONTACT_BASE_FILE ) );
 		wp_enqueue_style( 'bont-admin-uib', plugins_url( '/assets/css/login.css', BONTACT_BASE_FILE ) );
